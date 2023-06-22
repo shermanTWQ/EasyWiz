@@ -1,0 +1,11 @@
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\bin\Debug\EasyWiz.exe.config
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\bin\Debug\EasyWiz.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\bin\Debug\EasyWiz.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\bin\Debug\EasyWiz.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.vbprojResolveAssemblyReference.cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.Resources.resources
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.vbproj.GenerateResource.Cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\EasyWiz\EasyWiz\obj\Debug\EasyWiz.EasyWiz.resources
